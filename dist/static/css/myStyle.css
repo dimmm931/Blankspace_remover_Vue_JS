@@ -1,0 +1,35 @@
+
+
+/*  ----------------Mobile */
+
+@media screen and (max-width: 460px) {   
+ 
+    .header_p {
+	    font-size: 44px;	
+	}
+	
+	.bt-mobile-mine {
+		margin-bottom: 7px;
+		
+	}
+	
+	textarea { font-size: px; }
+
+}
+/* --------------END  Mobile */
+
+
+.myclip {
+	
+}
+
+.footer {
+  /*position: absolute;*/
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef; /* #2ba6cb; */
+  text-align: center;
+}
+
